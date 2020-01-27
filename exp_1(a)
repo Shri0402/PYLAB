@@ -1,0 +1,5 @@
+shippingcost = (59*0.75)+(3)
+totalpriceforbooks = 24.55*60
+print("Shipping cost:",shippingcost)
+print("Total price for books:", totalpriceforbooks)
+print("The total cost of books is:",totalpriceforbooks+shippingcost)
